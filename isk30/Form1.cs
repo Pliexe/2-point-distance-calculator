@@ -79,9 +79,8 @@ namespace isk30
             }
             public void Elmozgat(double dx, double dy)
             {
-
                 this.x += dx;
-                this.y+= dy;
+                this.y += dy;
             }
         }
 
